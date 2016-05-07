@@ -1,5 +1,10 @@
 This is the list of everyone in the Git tutorial. Add your name!
 
 David Baumgold <david@davidbaumgold.com>
+<<<<<<< HEAD
 
 Elisa Aigamaua
+=======
+Gaurav Hirlekar <gaurav.hirlekar@gmail.com>
+Elvin Eng <elveng@gmail.com>
+>>>>>>> singingwolfboy/master
